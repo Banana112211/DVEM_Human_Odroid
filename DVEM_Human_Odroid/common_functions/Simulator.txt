@@ -1,0 +1,2 @@
+Current_time,WheelAngle,Accelrator,Brakepetal,SpeedInKilometers,PositionX,PositionY
+3602455;11.0;0.0;25.0;0.0;-2.868955495993352;-23.58557985204599

